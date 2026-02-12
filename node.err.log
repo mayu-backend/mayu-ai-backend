@@ -1,0 +1,2288 @@
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
+get history error: AggregateError [ECONNREFUSED]: 
+    at /Users/usuario/mayu-ai-backend/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/usuario/mayu-ai-backend/clinical-history/routes/clinicalHistory.routes.js:11:22 {
+  code: 'ECONNREFUSED',
+  [errors]: [
+    Error: connect ECONNREFUSED 127.0.0.1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 5432
+    },
+    Error: connect ECONNREFUSED ::1:5432
+        at createConnectionError (node:net:1678:14)
+        at afterConnectMultiple (node:net:1708:16) {
+      errno: -61,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 5432
+    }
+  ]
+}
