@@ -9,6 +9,9 @@ import os from "os";
 import Tesseract from "tesseract.js";
 import clinicalHistoryRouter from "./clinical-history/routes/clinicalHistory.routes.js";
 
+// ✅ Postgres pool (ya lo tienes en db/pool.js)
+import { pool } from "./db/pool.js";
+
 // =======================================================
 // pdf-parse — SIMPLE y COMPATIBLE (pdf-parse@1.1.1)
 // =======================================================
@@ -25,7 +28,46 @@ app.use(cors());
 app.use(express.json({ limit: "25mb" }));
 
 // =======================================================
-// CLINICAL HISTORY ROUTES
+// HEALTH CHECK
+// =======================================================
+app.get("/health", (req, res) => {
+  res.json({ ok: true });
+});
+
+// ✅ Debug DB (para confirmar en Render si está cogiendo DATABASE_URL)
+app.get("/debug/db", async (req, res) => {
+  const hasDb = !!process.env.DATABASE_URL;
+  const pgSslMode = process.env.PGSSLMODE || null;
+
+  if (!hasDb) {
+    return res.json({ hasDb: false, pgSslMode, dbPing: false });
+  }
+
+  try {
+    const r = await pool.query("select now() as now");
+    return res.json({
+      hasDb: true,
+      pgSslMode,
+      dbPing: true,
+      now: r.rows?.[0]?.now || null,
+    });
+  } catch (e) {
+    return res.status(500).json({
+      hasDb: true,
+      pgSslMode,
+      dbPing: false,
+      error: e?.message || "db_ping_error",
+    });
+  }
+});
+
+// =======================================================
+// CLINICAL HISTORY ROUTES (PERSISTENCIA)
+// - Esto es lo que te da “permanencia total” de seguimientos
+// - Rutas típicas del router:
+//   POST /sync/patients/:patientId/history/get-or-create
+//   POST /sync/patients/:patientId/history/entries
+//   GET  /sync/patients/:patientId/history/entries?limit=50
 // =======================================================
 app.use(clinicalHistoryRouter);
 
@@ -34,21 +76,14 @@ app.use(clinicalHistoryRouter);
 // =======================================================
 const upload = multer({
   storage: multer.memoryStorage(),
-  limits: { fileSize: 25 * 1024 * 1024 } // 25 MB
+  limits: { fileSize: 25 * 1024 * 1024 }, // 25 MB
 });
 
 // =======================================================
 // OPENAI CLIENT
 // =======================================================
 const client = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY
-});
-
-// =======================================================
-// HEALTH CHECK
-// =======================================================
-app.get("/health", (req, res) => {
-  res.json({ ok: true });
+  apiKey: process.env.OPENAI_API_KEY,
 });
 
 // =======================================================
@@ -72,27 +107,26 @@ app.post("/extract", upload.single("file"), async (req, res) => {
       return res.json({
         text,
         method: "pdf-parse",
-        scanned: text.length < 30
+        scanned: text.length < 30,
       });
     }
 
     // ---------- IMÁGENES (OCR) ----------
     if (isImage) {
       const result = await Tesseract.recognize(req.file.buffer, "spa+eng", {
-        logger: () => {}
+        logger: () => {},
       });
 
       return res.json({
         text: (result?.data?.text || "").trim(),
-        method: "tesseract"
+        method: "tesseract",
       });
     }
 
     return res.status(415).json({
       error: "Unsupported file type (solo PDF o imágenes)",
-      mime
+      mime,
     });
-
   } catch (e) {
     res.status(500).json({ error: e?.message || "extract_error" });
   }
@@ -105,18 +139,22 @@ app.post("/transcribe", upload.single("file"), async (req, res) => {
   try {
     if (!req.file) return res.status(400).json({ error: "No file provided" });
 
-    const tmpPath = path.join(os.tmpdir(), req.file.originalname);
+    // ✅ En Render, /tmp existe
+    const safeName = req.file.originalname || "audio.m4a";
+    const tmpPath = path.join(os.tmpdir(), safeName);
+
     fs.writeFileSync(tmpPath, req.file.buffer);
 
     const transcription = await client.audio.transcriptions.create({
       file: fs.createReadStream(tmpPath),
-      model: "gpt-4o-mini-transcribe"
+      model: process.env.OPENAI_AUDIO_MODEL || "gpt-4o-mini-transcribe",
     });
 
-    fs.unlinkSync(tmpPath);
+    try {
+      fs.unlinkSync(tmpPath);
+    } catch {}
 
-    res.json({ text: transcription.text || "" });
-
+    res.json({ text: transcription?.text || "" });
   } catch (e) {
     res.status(500).json({ error: e?.message || "transcribe_error" });
   }
@@ -157,11 +195,11 @@ ${transcriptText}
 `.trim();
 
     const r = await client.responses.create({
-      model: "gpt-4.1-mini",
+      model: (process.env.OPENAI_MODEL || "gpt-4.1-mini").trim(),
       input: [
         { role: "system", content: "Devuelve únicamente JSON válido. No texto adicional. No markdown." },
-        { role: "user", content: prompt }
-      ]
+        { role: "user", content: prompt },
+      ],
     });
 
     const out = r.output_text || "{}";
@@ -173,16 +211,16 @@ ${transcriptText}
       parsed = { error: "invalid_json_from_model", raw: out };
     }
 
-    res.json(parsed);
-
+    return res.json(parsed);
   } catch (e) {
     res.status(500).json({ error: e?.message || "refine_error" });
   }
 });
 
 // =======================================================
-// SERVER
+// SERVER (Render-friendly)
 // =======================================================
-app.listen(8787, "0.0.0.0", () => {
-  console.log("✅ Mayu AI backend escuchando en http://0.0.0.0:8787");
+const PORT = Number(process.env.PORT || 8787);
+app.listen(PORT, "0.0.0.0", () => {
+  console.log(`✅ Mayu backend escuchando en 0.0.0.0:${PORT}`);
 });
